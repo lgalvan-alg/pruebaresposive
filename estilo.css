@@ -1,0 +1,33 @@
+
+
+/* disseny mobil :vertical */
+
+@media screen and (max-width:480px){
+  body{
+    background: azure;
+  }
+ }
+
+
+
+
+/* disseny mobil aoaisat */
+
+@media screen and (min-width:481px) and (max-width:1280px){
+  body{
+    background:green; 
+  }
+ }
+
+
+
+ /* diseny escriptori */
+
+
+
+@media screen and (min-width:1281px) {
+  body{
+    background:rgb(125, 34, 153); 
+  }
+}
+
